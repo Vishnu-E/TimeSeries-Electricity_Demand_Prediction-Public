@@ -1,2 +1,2 @@
 # TimeSeries-Electricity_Demand_Prediction-Public
-Time Series Project
+This project was part of the Time Series Analysis Course at Jio Institute.
